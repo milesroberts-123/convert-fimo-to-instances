@@ -13,4 +13,4 @@ The output of this script was designed to next be input into FuzzyClustering, wh
 
 ## DEPENDENCIES
 
-I tested this script with an output of FIMO in MEME suite V5.1.1 and with MotifSuite V1.4. I used R 3.6 when I built the script.
+I tested this script with an output of FIMO in MEME suite V5.1.1 and with MotifSuite V1.4. I used R v3.6 when I built the script.
